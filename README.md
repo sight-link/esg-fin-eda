@@ -33,10 +33,6 @@ esg-fin-eda/
 | Correlation matrix | ![Corr](figs/corr.png) |
 | Resource–ESG | ![Resource](figs/resource_esg.png) |
 
-<!-- 单图平铺版（备选） -->
-![Industry ESG](figs/industry_esg.png)
-![ESG-Profit](figs/esg_profit.png)
-
 ## Tech Stack
 `Python 3.10+` · `pandas` · `seaborn` · `matplotlib` · `scipy` · `Jupyter`
 
