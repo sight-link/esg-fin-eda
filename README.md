@@ -35,6 +35,7 @@ esg-fin-eda/
 | Correlation matrix | ![Corr](figs/corr.png) |
 | Resource–ESG | ![Resource](figs/resource_esg.png) |
 
+
 ## 🔑 Key Findings
 1. **Industry divergence**: Finance tops all three ESG pillars; Transport/Energy posts the lowest Environmental scores (synthetic sample, n=1,000, 9 industries)
 2. **ESG–profit link**: Near-zero positive correlation (Pearson **r = 0.088**, p < 0.001); statistically significant due to large n, but economically negligible — industry heterogeneity dominates
