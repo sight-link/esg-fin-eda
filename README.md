@@ -35,7 +35,7 @@ esg-fin-eda/
 
 > ⚠️ **Data disclaimer**: `company_esg_financial_dataset.csv` is a **synthetic** dataset (Shriyash Jagtap, Kaggle, CC BY 4.0). All findings illustrate the *analytical pipeline*, not empirical ESG facts.
 
-## 🧰 Stack
+## 🧰 Tech Stack
 Python 3.10+ · pandas · seaborn · matplotlib · scipy · Jupyter
 
 Together they showcase end-to-end capability: from **unstructured ESG disclosure text** → **structured ESG scoring** → **financial performance analysis**.
