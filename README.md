@@ -30,12 +30,10 @@ esg-fin-eda/
 └── README.md  
 
 ## Key Findings
-
-| # | Finding | Evidence |
-| 1 | **Industry divergence**: Finance leads all 3 ESG pillars; Transport/Energy lag on Environmental | `figs/industry_esg.png` |
-| 2 | **ESG–profit link**: Weak positive correlation (r≈0.31, p<0.01), with sector heterogeneity | `figs/esg_profit.png` |
-| 3 | **Disclosure–impact gap**: High-ESG regions (Europe) don't uniformly show lowest carbon intensity | `figs/region_carbon.png` |
-| 4 | **Correlation structure**: ESG pillars intercorrelated (r>0.7); carbon shows near-zero link to financials | `figs/corr.png` |
+1、Industry divergence: Finance tops all three ESG pillars; Transport/Energy posts the lowest Environmental scores (synthetic sample, n=1,000, 9 industries)  
+2、ESG-profit link: Weak positive correlation (r≈{:.2f}, p<0.01) with pronounced cross-industry heterogeneity  
+3、Disclosure-emission decoupling: High-disclosure regions do not map to low emissions — consistent with independent variable generation in synthetic data  
+4、Correlation architecture: E/S/G pillars tightly coupled (r>0.7); carbon metrics near-orthogonal to financial indicators  
 
 ## Outputs Preview
 | Figure | Insight |
