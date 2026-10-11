@@ -15,9 +15,9 @@ jupyter notebook notebooks/eda.py  # or eda.ipynb
 ## Project Structure
 esg-fin-eda/  
 ├── data/  
-│   └── gen_sample.py              # synthetic data generator  
+│   └── company_esg_financial_dataset.csv 
 ├── notebooks/  
-│   └── eda.py                    # main analysis (10 cells)  
+│   └── esg-fin-eda.ipynb          # main analysis 
 ├── figs/                          # output visualizations  
 │   ├── industry_esg.png  
 │   ├── esg_profit.png  
