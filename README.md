@@ -46,7 +46,8 @@ esg-fin-eda/
   <img src="figs/corr.png" width="360" alt="Correlation matrix">
 </p>
 <p float="left">
-   <img src="figs/resource–esg.png" width="360" >
+   <img src="figs/resource–esg.png" width="360" alt="Resource ESG">
+</p>
 
 
 
