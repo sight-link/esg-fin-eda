@@ -17,7 +17,7 @@ esg-fin-eda/
 ├── data/  
 │   └── company_esg_financial_dataset.csv 
 ├── notebooks/  
-│   └── esg-fin-eda.ipynb          # main analysis 
+│   └── esg-fin-eda.ipynb          # main analysis  
 ├── figs/                          # output visualizations  
 │   ├── industry_esg.png  
 │   ├── esg_profit.png  
