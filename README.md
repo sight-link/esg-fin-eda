@@ -45,9 +45,6 @@ esg-fin-eda/
   <img src="figs/region_carbon.png" width="360" alt="Disclosure vs Emission">
   <img src="figs/corr.png" width="360" alt="Correlation matrix">
 </p>
-<p float="left">
-   <img src="figs/resource–esg.png" width="360" alt="Resource ESG">
-</p>
 
 
 
