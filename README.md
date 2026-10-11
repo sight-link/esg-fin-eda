@@ -24,13 +24,18 @@ esg-fin-eda/
 3、Disclosure-emission decoupling: High-disclosure regions do not map to low emissions — consistent with independent variable generation in synthetic data  
 4、Correlation architecture: E/S/G pillars tightly coupled (r>0.7); carbon metrics near-orthogonal to financial indicators  
 
-## Outputs Preview
-| Figure | Insight |
-|--------|---------|
-| ![](figs/industry_esg.png) | Finance dominates ESG; sector gaps visible |
-| ![](figs/esg_profit.png) | Scatter + regression by industry |
-| ![](figs/region_carbon.png) | Heatmap: Region × Industry carbon intensity |
-| ![](figs/corr.png) | Full correlation matrix |
+## Visualizations
+| Chart | Preview |
+|-------|---------|
+| Industry ESG scores | ![Industry ESG](figs/industry_esg.png) |
+| ESG–Profit relation | ![ESG-Profit](figs/esg_profit.png) |
+| Disclosure vs Emission | ![Region Carbon](figs/region_carbon.png) |
+| Correlation matrix | ![Corr](figs/corr.png) |
+| Resource–ESG | ![Resource](figs/resource_esg.png) |
+
+<!-- 单图平铺版（备选） -->
+![Industry ESG](figs/industry_esg.png)
+![ESG-Profit](figs/esg_profit.png)
 
 ## Tech Stack
 `Python 3.10+` · `pandas` · `seaborn` · `matplotlib` · `scipy` · `Jupyter`
