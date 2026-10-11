@@ -13,21 +13,21 @@ python data/gen_sample.py          # generates 2000-row synthetic CSV
 jupyter notebook notebooks/eda.py  # or eda.ipynb
 
 ## Project Structure
-esg-fin-eda/
-├── data/
-│   └── gen_sample.py              # synthetic data generator
-├── notebooks/
-│   └── eda.py                    # main analysis (10 cells)
-├── figs/                          # output visualizations
-│   ├── industry_esg.png
-│   ├── esg_profit.png
-│   ├── region_carbon.png
-│   ├── corr.png
-│   └── resource_esg.png
-├── outputs/
-│   └── summary.csv               # key metrics table
-├── requirements.txt
-└── README.md
+esg-fin-eda/  
+├── data/  
+│   └── gen_sample.py              # synthetic data generator  
+├── notebooks/  
+│   └── eda.py                    # main analysis (10 cells)  
+├── figs/                          # output visualizations  
+│   ├── industry_esg.png  
+│   ├── esg_profit.png  
+│   ├── region_carbon.png  
+│   ├── corr.png  
+│   └── resource_esg.png  
+├── outputs/  
+│   └── summary.csv               # key metrics table  
+├── requirements.txt  
+└── README.md  
 
 ## Key Findings
 
