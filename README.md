@@ -49,8 +49,7 @@ esg-fin-eda/
 `Python 3.10+` · `pandas` · `seaborn` · `matplotlib` · `scipy` · `Jupyter`
 
 ## Data Disclaimer
-Data is **synthetically generated** for method demonstration only. Not empirical evidence.
-Generated via `data/gen_sample.py` with fixed random seed for reproducibility.
+The company_esg_financial_dataset.csv is a synthetic dataset​ published on Kaggle (Shriyash Jagtap, CC BY 4.0). It simulates 1,000 firms × 9 industries × 2015–2025. All findings are illustrative of the analytical pipeline, not empirical ESG facts.
 
 ## Author
 **sight-link** — Financial Data Analytics | FinTech × ESG Research
