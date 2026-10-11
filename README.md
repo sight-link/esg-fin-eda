@@ -4,14 +4,6 @@ Reproducible Exploratory Data Analysis on synthetic ESG & Financial Performance 
 
 Demonstrates end-to-end analytical workflow: **data generation → cleaning → visualization → insight extraction**.
 
-## Quick Start
-bash
-git clone https://github.com/sight-link/esg-fin-eda.git
-cd esg-fin-eda
-pip install -r requirements.txt
-python data/gen_sample.py          # generates 2000-row synthetic CSV
-jupyter notebook notebooks/eda.py  # or eda.ipynb
-
 ## Project Structure
 esg-fin-eda/  
 ├── data/  
@@ -24,9 +16,6 @@ esg-fin-eda/
 │   ├── region_carbon.png  
 │   ├── corr.png  
 │   └── resource_esg.png  
-├── outputs/  
-│   └── summary.csv               # key metrics table  
-├── requirements.txt  
 └── README.md  
 
 ## Key Findings
