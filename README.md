@@ -7,7 +7,7 @@ Demonstrates end-to-end analytical workflow: **data generation → cleaning → 
 ## 📁 Structure
 esg-fin-eda/  
 ├── data/  
-│   └── company_esg_financial_dataset.csv 
+│   └── company_esg_financial_dataset.csv  
 ├── notebooks/  
 │   └── esg-fin-eda.ipynb          # main analysis  
 ├── figs/                          # output visualizations  
