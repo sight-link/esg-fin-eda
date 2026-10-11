@@ -38,9 +38,16 @@ esg-fin-eda/
 ## 🧰 Stack
 Python 3.10+ · pandas · seaborn · matplotlib · scipy · Jupyter
 
-## 🔗 Dual-repo portfolio
-- [`esg-fintext-demo`](https://github.com/sight-link/esg-fintext-demo): FinBERT-ESG sentence-level E/S/G classification
-- [`esg-fin-eda`](https://github.com/sight-link/esg-fin-eda): tabular EDA + visualization (this repo)
+## 🔗 Portfolio Context
+
+Part of a **dual-repo demonstration** for FinTech × ESG research:
+
+| Repo | Focus | Technique |
+|------|-------|-----------|
+| [`esg-fintext-demo`](https://github.com/sight-link/esg-fintext-demo) | NLP sentence-level E/S/G classification | FinBERT-ESG · Transformers |
+| [`esg-fin-eda`](https://github.com/sight-link/esg-fin-eda) *(this repo)* | Tabular EDA + visualization | pandas · seaborn · scipy |
+
+Together they showcase end-to-end capability: from **unstructured ESG disclosure text** → **structured ESG scoring** → **financial performance analysis**.
 
 ---
 sight-link · Financial Data Analytics | FinTech × ESG Research · MIT License
